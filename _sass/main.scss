@@ -113,14 +113,14 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: rgb(150, 78, 132);
+  background-color: rgb(78, 112, 150);
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar a {
   float: left;
   font-size: 16px;
-  color: rgb(192, 115, 179);
+  color: rgb(120, 115, 192);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -277,7 +277,7 @@ figure {
   max-width: 130px;
   position: absolute;
   right: 10px;
-  top: 10px;
+  top: 60px;
 }
 @media screen and (min-width: 37.5em) {
   
